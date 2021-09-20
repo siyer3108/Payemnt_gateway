@@ -1,3 +1,3 @@
 # Donation_For_Kids 
 
-Website for Donation for kids
+ Payment gateway for the website for Donation for kids
